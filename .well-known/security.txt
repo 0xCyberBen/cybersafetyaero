@@ -1,0 +1,7 @@
+# Security contact for cybersafety.aero (RFC 9116)
+# How to report, scope and safe harbour: see Policy below.
+Contact: mailto:security@cybersafety.aero
+Expires: 2027-10-30T23:59:59Z
+Encryption: https://cybersafety.aero/pgp-key.asc
+Preferred-Languages: en
+Canonical: https://cybersafety.aero/.well-known/security.txt
