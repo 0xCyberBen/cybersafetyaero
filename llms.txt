@@ -9,7 +9,6 @@ Contact: hello@cybersafety.aero · Security reports: security@cybersafety.aero (
 ## Pages
 
 - [Home](https://cybersafety.aero/): holding page while the new site is in final checks.
-- [Security](https://cybersafety.aero/security): vulnerability disclosure policy.
 
 ## Optional
 
