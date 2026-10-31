@@ -1,5 +1,5 @@
 # robots.txt · cybersafety.aero
-# Search engines and AI assistants may read the whole public site.
+# Search engines may read the whole public site.
 User-agent: *
 Allow: /
 
@@ -7,14 +7,13 @@ Allow: /
 # Search engines and AI search/answer bots (OAI-SearchBot, ChatGPT-User,
 # Claude-SearchBot, Claude-User, PerplexityBot, Googlebot) keep working.
 # To opt out of training, remove the "# " in front of each line below.
-#
-# User-agent: GPTBot
-# User-agent: ClaudeBot
-# User-agent: Google-Extended
-# User-agent: Applebot-Extended
-# User-agent: CCBot
-# User-agent: meta-externalagent
-# Disallow: /
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: meta-externalagent
+Disallow: /
 
 # Uncomment once a sitemap is published:
 # Sitemap: https://cybersafety.aero/sitemap.xml
