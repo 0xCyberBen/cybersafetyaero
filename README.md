@@ -13,7 +13,6 @@ The full site is still in the hangar. What's live right now:
 |---|---|
 | `index.html` | Holding page: "In the hangar. Final checks before first flight." |
 | `404.html` | GitHub Pages serves it, with a real **404 status**, for every unknown path. Old links from the previous site land here. |
-| `security.html` | Vulnerability disclosure policy, so `security.txt` points somewhere real. Served at `/security`. |
 | `maintenance.html` | Parked for later. Not linked from anywhere. Served at `/maintenance` if you want to show it off. |
 
 **On launch day** the full site replaces `index.html` and adds the other pages. Keep `404.html`, `maintenance.html`, `security.html`, `theme.js`, `fonts/`, `.well-known/`, `CNAME` and `.nojekyll`. Swap `llms.txt` for the full version, and change the 404 copy that says the site is "still in final checks".
@@ -33,7 +32,6 @@ The full site is still in the hangar. What's live right now:
 | About | Who we are |
 | Contact | Email, PGP key, enquiry form |
 | Legal | Imprint, privacy policy, cookies (there are none) |
-| Security | Vulnerability disclosure policy |
 | 404 | "This page isn't on the flight plan." |
 | Maintenance | "In the hangar for scheduled maintenance." |
 | Enquiry sent | "Message received. Readback correct." |
