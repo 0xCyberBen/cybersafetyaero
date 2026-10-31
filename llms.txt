@@ -1,0 +1,16 @@
+# CyberBen
+
+> Independent aviation cybersafety advisory based in Tallinn, Estonia (CyberBen OÜ). We help manufacturers, operators, service providers and regulators build cyber resilience across the whole product life-cycle: airworthiness security, EASA Part-IS, training, certification support, and assurance of AI in aviation.
+
+The new cybersafety.aero is in pre-flight: only a holding page is online for now. The full site follows in early 2027.
+
+Contact: hello@cybersafety.aero · Security reports: security@cybersafety.aero (PGP available)
+
+## Pages
+
+- [Home](https://cybersafety.aero/): holding page while the new site is in final checks.
+- [Security](https://cybersafety.aero/security): vulnerability disclosure policy.
+
+## Optional
+
+- [cyberben.ai](https://cyberben.ai/): a scripted terminal about AI assurance in aviation.
